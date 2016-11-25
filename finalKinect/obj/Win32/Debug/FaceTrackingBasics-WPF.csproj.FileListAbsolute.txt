@@ -1,0 +1,120 @@
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Hard.dll
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\SkeletonBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Ventuz.OSC.dll
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\FaceTrackingBasics-WPF\bin\x86\Debug\Ventuz.OSC.xml
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\SkeletonBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\bin\x86\Debug\Ventuz.OSC.xml
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ict\독수리\FaceTrackingBasics-WPF\obj\Win32\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\SkeletonBasics-WPF.exe
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\bin\x86\Debug\Ventuz.OSC.xml
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\App.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\ict\독수리\finalKinect\obj\Win32\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\FaceTrackingBasics-WPF.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingViewer.baml
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingViewer.g.cs
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\App.g.cs
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.cache
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF_MarkupCompile.lref
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\FaceTrackingBasics-WPF.exe
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\FaceTrackingBasics-WPF.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\AWSSDK.Core.dll
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\AWSSDK.S3.dll
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\MySql.Data.dll
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\SkeletonBasics-WPF.exe
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\AWSSDK.Core.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\AWSSDK.Core.xml
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\AWSSDK.S3.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\AWSSDK.S3.xml
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\MySql.Data.xml
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\SkeletonBasics-WPF.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\bin\x86\Debug\Ventuz.OSC.xml
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\MainWindow.baml
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.g.resources
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics.Properties.Resources.resources
+C:\Users\user\Documents\카카오톡 받은 파일\끄치여\finalKinect\obj\Win32\Debug\FaceTrackingBasics-WPF.csproj.GenerateResource.Cache
